@@ -14,10 +14,12 @@ Bridge block diagram:
 # Bridge State Diagram
 ![image](https://github.com/AlaaTaha32/AMBA-AHB-2-APB-Bridge/assets/154026967/6eb4e942-f45a-4a39-ab25-3370cb3490f8)
 
+
 # Used Tools
 1- Intel Quartus for synthesis
 
 2- Modelsim for simulation
+
 
 # Synthesis Results
 Bridge top module:
@@ -28,6 +30,7 @@ AHB slave interface:
 
 Synthesis summary:
 ![image](https://github.com/AlaaTaha32/AMBA-AHB-2-APB-Bridge/assets/154026967/ae7cedb8-1b07-41e9-8390-a9d39f6a8267)
+
 
 # Simulation Results
 Single write transfer:
@@ -43,10 +46,14 @@ Burst of read transfers:
 ![image](https://github.com/AlaaTaha32/AMBA-AHB-2-APB-Bridge/assets/154026967/df630b06-3414-4693-b399-d7f29f8b9b90)
 
 
+
 # Resources
 [1] Amba specification (REV 2.0) - ARM architecture family, https://documentation-service.arm.com/static/5f916403f86e16515cdc3d71.
+
 [2] AHB example Amba System - OpenCores, https://opencores.org/usercontent/doc/1470150976.
+
 [3] R. Dholiya, Design of AHB to APB bridge, https://bvmengineering.ac.in/NAAC/Criteria1/1.3/1.3.4/16EL032.pdf.
+
 [4] A. P. Samathuvamani, “Introduction to amba bus specification,” Arul PS, https://www.arulprakash.dev/introduction-to-amba-bus-specification/.
 
 
